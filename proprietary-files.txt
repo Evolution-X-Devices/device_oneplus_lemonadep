@@ -1004,3 +1004,16 @@ vendor/firmware/vpu20_4v_unsigned.mbn
 odm/etc/wifi/bdwlan.elf
 odm/etc/wifi/regdb.bin
 odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini
+
+#OnePlus Camera
+odm/etc/camera/dng/ColorMatrix1_imx789_0.txt
+odm/etc/camera/dng/ColorMatrix2_imx789_0.txt
+odm/etc/camera/dng/D28HUESATMap_imx789_0.txt
+odm/etc/camera/dng/D65HUESATMap_imx789_0.txt
+odm/etc/camera/dng/ToneCurve_imx789_0.txt
+
+odm/etc/camera/dng/ColorMatrix1_ov08a10_3.txt
+odm/etc/camera/dng/ColorMatrix2_ov08a10_3.txt
+odm/etc/camera/dng/D28HUESATMap_ov08a10_3.txt
+odm/etc/camera/dng/D65HUESATMap_ov08a10_3.txt
+odm/etc/camera/dng/ToneCurve_ov08a10_3.txt
