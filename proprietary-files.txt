@@ -963,8 +963,8 @@ odm/lib64/android.hardware.secure_element@1.0-impl.so
 # Sensors
 odm/etc/sensor/config/lahaina_aw9610x_0.json
 odm/etc/sensor/config/lahaina_aw9610x_down_0.json
-odm/etc/sensor/config/lahaina_bmp380.json
-odm/etc/sensor/config/lahaina_lps22hb.json
+odm/etc/sensor/config/lahaina_bmp380.json|131799c39f35f70e6dff895eb37fc5d133fb8282
+odm/etc/sensor/config/lahaina_lps22hb.json|c6124b9b77985dd35fabb9763b4b171e33bb128e
 odm/etc/sensor/config/lahaina_qrd_ak0991x.json
 odm/etc/sensor/config/lahaina_qrd_alsps.json
 odm/etc/sensor/config/lahaina_qrd_bmi26x.json
@@ -974,7 +974,7 @@ odm/etc/sensor/config/lahaina_qrd_mmc56x3x.json
 odm/etc/sensor/config/lahaina_qrd_sx932x.json
 odm/etc/sensor/config/lahaina_qrd_sx932x_down.json
 odm/etc/sensor/config/lahaina_tcs3707.json
-odm/etc/sensor/sensor_config.json
+odm/etc/sensor/sensor_config.json|44964fc91caba556b5e666a1d9a23a458a96ea1f
 
 # VPU firmware
 vendor/firmware/vpu20_4v.b01
@@ -1002,7 +1002,7 @@ vendor/firmware/vpu20_4v_unsigned.mbn
 
 # WiFi
 odm/etc/wifi/bdwlan.elf
-odm/etc/wifi/regdb.bin
+odm/etc/wifi/regdb.bin|30ff599f33dd4058bc79482d5e2e26a4a98adb95
 odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini
 
 #OnePlus Camera
