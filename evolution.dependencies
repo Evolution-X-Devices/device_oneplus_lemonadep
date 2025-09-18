@@ -1,0 +1,28 @@
+[
+  {
+    "repository": "device_oneplus_sm8350-common",
+    "target_path": "device/oneplus/sm8350-common",
+  },
+  {
+    "repository": "vendor_oneplus_sm8350-common",
+    "target_path": "vendor/oneplus/sm8350-common",
+  },
+  {
+    "repository": "vendor_oneplus_lemonadep",
+    "target_path": "vendor/oneplus/lemonadep",
+  },
+  {
+    "repository": "kernel_oneplus_sm8350",
+    "target_path": "kernel/oneplus/sm8350",
+  },
+  {
+    "repository": "hardware_oplus",
+    "target_path": "hardware/oplus",
+  },
+  { 
+    "repository": "oneplus-tp/vendor-oplus-camera",
+    "target_path": "vendor/oplus/camera",
+    "remote": "gitlab",
+    "branch": "lineage-22.0"
+  }
+]
