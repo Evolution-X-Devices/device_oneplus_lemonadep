@@ -15,6 +15,9 @@ $(call inherit-product, device/oneplus/lemonadep/device.mk)
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
+# Camera
+$(call inherit-product-if-exists, device/oplus/camera/opluscamera.mk)
+
 BUILD_BCR := true
 TARGET_USES_MINI_GAPPS := true
 

@@ -26,5 +26,17 @@
   {
     "repository": "hardware_oplus",
     "target_path": "hardware/oplus"
+  },
+  {
+    "repository": "Evolution-X-Devices/device_oplus_camera",
+    "target_path": "device/oplus/camera",
+    "branch": "lineage-23.2",
+    "remote": "git"
+  },
+  {
+    "repository": "Evolution-X-Devices/vendor_oplus_camera",
+    "target_path": "vendor/oplus/camera",
+    "branch": "lineage-23.2",
+    "remote": "git"
   }
 ]
